@@ -1,0 +1,6 @@
+{
+  "name": "CreatorPulse AI",
+  "description": "Viral Content Blueprint Generator for high-retention video creators, featuring hook optimization and scene-by-scene script breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
